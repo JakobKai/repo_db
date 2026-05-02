@@ -254,5 +254,12 @@
         "init_cmds"     : "",
         "description"   : "Data Abstractions with Polymorphic Representation"
     },
+    "code_phd" : {
+        "type"          : "git",
+        "url"           : "git@github.com:JakobKai/code_phd.git",
+        "default_branch": "main",
+        "init_cmds"     : "",
+        "description"   : "Code for my PhD"
+    },
     "_vim_modeline" : "vim: sw=4 ts=4 expandtab"
 }
